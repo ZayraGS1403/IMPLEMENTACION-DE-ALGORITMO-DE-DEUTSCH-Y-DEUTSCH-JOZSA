@@ -17,3 +17,4 @@ En este apartado del repositorio, se realizaron pruebas con las funciones modela
 
 # CIRCUITO DE DEUTSCH-JOZSA
 Este archivo contiene la ejecución del algoritmo Deutsch-Jozsa.
+# Documento sobre la pmplementación de Algoritmo de Deutsch y Deutsch-Jozsa en PDF
